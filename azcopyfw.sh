@@ -2,9 +2,13 @@
 #
 #
 
-## This script is for demonstration purposes only and no guarantees are made by the script's
-##  contributors or their employer(s). Please use at your own risk.
-##
+#  This script is intended and shared as an example of how to incorporate AzCopy with a simple inotifywait file watch.
+#
+#  It is NOT intended to be used in any production environment and no guarantee or SLA is provided or implied by Microsoft or the individual(s) who authored or shared it.
+#  Use of this script should be limited to proof-of-concept work only within a non-production environment.
+#  Please consider this script to be an informational example only - use at your own risk.
+#
+
 
 ## Set these variables to indicate the directory you want to watch for new/changed files, and your destintation storage account details.
 
